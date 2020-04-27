@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: audacious
+Build-Jdk: 9.0.4
+Implementation-Title: capgeministoreDB
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.capgemini.capgeministoreDB
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/capgeministoreDB
+Created-By: Maven Integration for Eclipse
+
