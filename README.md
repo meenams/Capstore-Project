@@ -15,10 +15,7 @@ This is similar to a e-commerce shopping website which has development in both U
 Java Packages are created in Eclipse mainly using full stack technologies like Core Java, HTML, SQL, Spring Boot, CSS,  Java Script and testing using selenium
 
 
-# Files Overview
-capgeministoreDB/src/main/java/com/capgemini/controller/ProductController.java
-Using restcontroller and requestmapping, the available categories are displayed as a <list>
-Buttons are used to navigate to other sub pages
+
  
 
 
